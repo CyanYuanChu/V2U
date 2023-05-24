@@ -1,0 +1,54 @@
+connect successful
+subscribe: Driver/status
+Server listening on port 3000
+connect successful
+subscribe: Driver/status
+Server listening on port 3000
+{"longtitude": 108.96, "latitude": 34.26}
+string
+{"longtitude": 108.96, "latitude": 34.26}
+string
+connect successful
+subscribe: Driver/status
+Server listening on port 3000
+nihao
+
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+SyntaxError [Error]: Unexpected token i in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at MessagePort.<anonymous> (/home/ubuntu/mqttserver/app.js:16:33)
+    at MessagePort.[nodejs.internal.kHybridDispatch] (internal/event_target.js:354:41)
+    at MessagePort.exports.emitMessage (internal/per_context/messageport.js:18:26)
+Emitted 'error' event on process instance at:
+    at emitUnhandledRejectionOrErr (internal/event_target.js:543:11)
+    at MessagePort.[nodejs.internal.kHybridDispatch] (internal/event_target.js:358:9)
+    at MessagePort.exports.emitMessage (internal/per_context/messageport.js:18:26)
+connect successful
+subscribe: Driver/status
+Server listening on port 3000
+connect successful
+subscribe: Driver/status
+Server listening on port 3000
+connect successful
+subscribe: Driver/status
+Server listening on port 3000
+connect successful
+subscribe: Driver/status
+Server listening on port 3000
+connect successful
+subscribe: Driver/status
+Server listening on port 3000
+{"VIN":"1G4HP54K1XU587923"}
+{latitude:100,longtitude:100}
+数据发送格式异常被捕获: Unexpected token l in JSON at position 1
+{latitude:100,longtitude:100}
+数据发送格式异常被捕获: Unexpected token l in JSON at position 1
+{latitude:100,longtitude:100}
+数据发送格式异常被捕获: Unexpected token l in JSON at position 1
+{latitude:10,longtitude:0, VIN:00000000000000001, Locker:false}
+数据发送格式异常被捕获: Unexpected token l in JSON at position 1
+connect successful
+subscribe: Driver/status
+Server listening on port 3000

@@ -1,2 +1,5 @@
 # ingnore node_modules floder
 node_modules
+
+# ingnore pem and key file
+*.pem
